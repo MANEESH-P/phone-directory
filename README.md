@@ -1,5 +1,5 @@
 ## Phone Directory App
 
-Hosted at : https://MANEESH-P.github.io/directory/
+Hosted at : https://maneeshp.github.io/directory/
 
 
