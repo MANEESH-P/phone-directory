@@ -1,5 +1,5 @@
 ## Phone Directory App
 
-Hosted at : http://maneeshp.me/phone-directory/
+http://maneeshp.me/phone-directory/
 
 
