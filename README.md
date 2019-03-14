@@ -1,5 +1,7 @@
 ## Phone Directory App
 
-https://phondirectory.herokuapp.com/
+
+Heoroku Link: https://phondirectory.herokuapp.com/
+Github Pages Link: http://maneeshp.me/phone-directory/
 
 
