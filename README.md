@@ -1,5 +1,5 @@
 ## Phone Directory App
 
-http://maneeshp.me/phone-directory/
+https://phondirectory.herokuapp.com/
 
 
